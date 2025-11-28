@@ -13,7 +13,7 @@ The goal is to:
 
 ## 👥 Contributors
 
-- **Shentong Li**  
+- **Judy Li**  
   - Model implementation: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting  
   - Hyperparameter tuning  
   - SMOTE implementation and optimization  
